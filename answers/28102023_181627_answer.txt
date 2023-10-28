@@ -1,0 +1,8 @@
+1, Flow Builder Basics can be implemented to create personalized messages and actions for customer queries on Instagram. This can help streamline the customer support process and provide more efficient responses. Estimated FTE hours saved per week: 4.
+
+2, Flow Builder Breakdown can be implemented to further enhance the features and capabilities of Flow Builder. This allows for more advanced automation and customization of messages and actions. Estimated FTE hours saved per week: 3.
+
+3, Comments Growth Tool can be used to automatically engage with user comments on Instagram. This helps increase customer engagement and allows for more personalized interactions. Estimated FTE hours saved per week: 2.
+
+4, Conversation Starters can be implemented to provide pre-filled options for customer inquiries and discussions. This saves time by providing quick and relevant responses to common questions. Estimated FTE hours saved per week: 1.
+

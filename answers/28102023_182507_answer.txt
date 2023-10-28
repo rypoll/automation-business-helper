@@ -1,0 +1,9 @@
+Key, Why, FTE, relevance
+1, "Flow Builder Basics can be used to create personalized messages, actions, tags, and more for Instagram conversations. This can help automate the process of sending customized responses to customers and improve the efficiency of the virtual assistants.", 3, 8
+2, "Flow Builder Breakdown can be used to further enhance the automation of Instagram conversations by utilizing actions, randomizers, and conditions. This allows for more complex and specific use cases to be implemented.", 4, 7
+5, "Keywords can be implemented to trigger conversations based on specific words or phrases received from Instagram users. This can automate the initial engagement with customers and provide a more personalized experience.", 2, 6
+6, "Story Mention Triggers can be set up to instantly reply to anyone who mentions the business' Instagram handle in a story. This helps automate the process of acknowledging mentions and engaging with potential customers.", 1, 5
+7, "Story Ads can help the business stand out and reach a wider audience on Instagram by utilizing the storytelling format. This guide provides insights on how to set up effective Story ads and make the most out of Instagram marketing.", 2, 7
+8, "Message Template Ads can be utilized to drive more engagement to the business' Instagram Messenger through paid traffic. This guide walks through the process of setting up Message Template Ads and provides best practices.", 2, 7
+9, "Understanding the 24-Hour Rule is crucial for maintaining compliance and providing the best customer experience on Instagram. This guide explains the guidelines and provides insights on how to message customers within the rule's boundaries.", 1, 6
+

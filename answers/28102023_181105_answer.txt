@@ -1,0 +1,17 @@
+Suggestions:
+
+Key, Why, FTE Hours
+0, Live Chat with Instagram Automation can be used to automate customer query responses on Instagram. This saves time for the virtual assistants as they can handle multiple customer chats in one spot, reducing the need for manual monitoring and response. Estimated FTE hours saved per week: 10
+
+1, Flow Builder Basics and 2, Flow Builder Breakdown can be used to create personalized messages, actions, and tags for Instagram. This automation can help streamline customer interactions and provide consistent messaging. Estimated FTE hours saved per week: 5
+
+4, Conversation Starters can be implemented to provide pre-filled buttons for new customers, effectively starting discussions and engaging users. This automation can reduce the time and effort spent on initial customer interactions. Estimated FTE hours saved per week: 2
+
+5, Keywords can be used to trigger conversations based on specific words or phrases used by customers. This automation can improve user engagement and provide timely responses. Estimated FTE hours saved per week: 3
+
+6, Story Mention Triggers can automatically reply to anyone who mentions the business's handle or account name in a Story. This automation can enhance customer engagement and improve response times. Estimated FTE hours saved per week: 2
+
+9, Instagram Automation 24-Hour Rule Explained can provide guidance on adhering to the 24-hour rule when communicating with customers. This automation can ensure compliance and help manage customer communication effectively. Estimated FTE hours saved per week: 1
+
+Other guides/tutorials/tools are not relevant to the business.
+

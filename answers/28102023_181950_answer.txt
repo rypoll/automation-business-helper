@@ -1,0 +1,12 @@
+Key,Why,FTE
+0,"The business can automate customer queries on Instagram using the Live Chat with Instagram Automation guide. This guide teaches how to navigate the Live Chat dashboard, pause automation, assign agents, and more.",5
+1,"Flow Builder Basics can be implemented to create personalized messages, actions, tags, and more for Instagram conversations. This guide helps in understanding the beginning steps of Flow Builder and its application in conversations.",3
+2,"Flow Builder Breakdown is relevant for the business as it explains Actions, Randomizers, Conditions, and other features of Flow Builder. This can be applied to specific use cases for Instagram messages.",4
+3,"The Comments Growth Tool (CGT) automation guide is useful for extending customer engagement on Instagram. It allows controlling which posts to fire for and which message or conversation to send, enhancing customer interaction.",2
+4,"Implementing Conversation Starters in Instagram flows can be beneficial for engaging new customers. These pre-filled icebreakers help kick-start discussions and improve user engagement.",1
+5,"Keywords feature in Manychat can significantly enhance user engagement on Instagram by triggering a conversation based on specific words or phrases. This guide explains how to create and connect keywords to flows.",3
+6,"Setting up Story Mention Triggers allows instant replies to anyone mentioning the business handle in a Story on Instagram. This provides real-time engagement and can be connected to existing flows.",2
+7,"Utilizing Story Ads can help the business stand out and get ahead of competitors on Instagram. This guide provides insights on setting up and optimizing Story ads to make the most out of Instagram marketing.",1
+8,"The Message Template Ads guide can assist in driving more engagement to the business's Instagram Messenger. It explains how to set up Message Template Ads and provides best practices for better engagement.",2
+9,"Understanding the Instagram Automation 24-Hour Rule is crucial for providing a seamless customer experience while staying compliant. This guide explains the guidelines, reasoning, and ways to message customers effectively.",1
+

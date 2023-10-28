@@ -1,0 +1,5 @@
+Key,Why,FTE
+1,"Flow Builder Basics can be implemented to create personalized messages, actions, tags, and more. This can help streamline and automate customer interactions on Instagram, saving time for the virtual assistants. Estimated FTE hours saved: 3",3
+3,"Comments Growth Tool can be used to automate customer engagement by sending messages or starting conversations based on user comments. This can help improve customer satisfaction and response time. Estimated FTE hours saved: 2",2
+5,"Keywords feature allows for automation of conversations triggered by specific words or phrases. This can help increase user engagement and provide immediate responses to customer inquiries. Estimated FTE hours saved: 1",1
+

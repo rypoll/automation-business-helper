@@ -1,0 +1,4 @@
+Key,Why,FTE
+1,"The business can use the ManyCam feature ""Flow Builder Basics"" to create personalized messages, actions, tags, and more for Instagram. This can help automate and streamline the process of customer interactions on Instagram, saving time and improving efficiency.",3
+3,"The ManyCam feature ""Comments Growth Tool"" can be used to automate customer engagement on Instagram. It allows the business to control which posts to respond to, which keywords to look for in comments, and what messages or conversations to send. This automation can save time and improve customer engagement.",2
+

@@ -1,0 +1,7 @@
+Key, Why, FTE Hours
+0, This guide can be used to automate live chat with customers on Instagram. By using Instagram Live Chat automation, the business can efficiently handle customer queries and provide real-time support, 10
+1, This guide can be used to create personalized messages and actions using Flow Builder. By leveraging Flow Builder, the business can automate repetitive tasks and streamline conversations with customers, 5
+4, This guide can be used to implement pre-filled icebreakers for new customer conversations. By using Conversation Starters, the business can automate the process of initiating discussions and increasing customer engagement, 3
+5, This guide can be used to trigger conversations based on specific keywords. By utilizing Keywords, the business can automate the process of engaging with customers who mention certain words or phrases, 5
+9, This guide explains the 24-hour rule for communicating with customers on Instagram. By understanding and adhering to the 24-hour rule, the business can efficiently manage customer messages while staying compliant, 2
+

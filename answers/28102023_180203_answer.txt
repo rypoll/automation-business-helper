@@ -1,0 +1,19 @@
+Suggestions for automating the business using the provided guides:
+
+1. Guide 0: How to Use Live Chat with Instagram Automation (Manychat)
+   - This guide can be used to automate the process of answering customer queries on Instagram. By using live chat automation, the business can streamline their customer support process and save time. Estimated FTE hours saved per week: 5 hours.
+
+2. Guide 1: Feature: Flow Builder Basics (Manychat)
+   - This guide can be used to create personalized messages and actions for Instagram. By utilizing Flow Builder, the business can automate the process of sending personalized messages to customers, improving engagement and efficiency. Estimated FTE hours saved per week: 2 hours.
+
+3. Guide 4: Feature: Conversation Starters (Manychat)
+   - This guide can be used to implement pre-filled icebreakers to initiate discussions with new customers on Instagram. By using Conversation Starters, the business can automate the process of starting conversations, increasing customer engagement. Estimated FTE hours saved per week: 1 hour.
+
+4. Guide 5: Feature: Keywords (Manychat)
+   - This guide can be used to create keywords that trigger automated conversations when users message the business on Instagram. By using Keywords, the business can automate the process of initiating conversations based on specific words or phrases, improving customer engagement. Estimated FTE hours saved per week: 3 hours.
+
+5. Guide 25: Advanced AI FAQ support bot powered by your own documentation (Voiceflow)
+   - This guide can be used to create an advanced AI FAQ support bot that can answer frequently asked questions using the business's own documentation. By implementing this bot, the business can automate the process of handling customer inquiries, reducing the workload on virtual assistants. Estimated FTE hours saved per week: 8 hours.
+
+Note: The remaining guides are not applicable to the business described.
+

@@ -1,0 +1,22 @@
+Suggestions for automating processes in the business:
+
+1. Key: 0
+   Why: The guide "How to Use Live Chat with Instagram Automation" can be implemented to automate customer queries on Instagram. It allows for centralized chat management, automation pause, and agent assignment, improving efficiency in handling customer queries.
+   FTE hours: Estimated time saved per week: 2 hours.
+
+2. Key: 1
+   Why: The guide "Flow Builder Basics" can be used to create personalized messages and automate actions in Instagram conversations. This can streamline the customer interaction process and improve response time.
+   FTE hours: Estimated time saved per week: 1 hour.
+
+3. Key: 3
+   Why: The guide "Comments Growth Tool" can be implemented to automate customer engagement and respond to user comments. It allows for targeted message sending based on specific post words/phrases, enhancing customer interaction and increasing engagement.
+   FTE hours: Estimated time saved per week: 1.5 hours.
+
+4. Key: 4
+   Why: The guide "Conversation Starters" can be used to implement pre-filled icebreaker messages for new customers. This can streamline the initial conversation and improve customer engagement.
+   FTE hours: Estimated time saved per week: 1 hour.
+   
+5. Key: 5
+   Why: The guide "Keywords" can be implemented to trigger conversations based on specific words or phrases in direct messages or story messages. This can improve user engagement and automate responses based on specific topics.
+   FTE hours: Estimated time saved per week: 1.5 hours.
+
