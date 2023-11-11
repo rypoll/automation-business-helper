@@ -1,0 +1,12 @@
+url, source, why
+https://relevanceai.com/workflows/text-search-connected-qa-studio, relevance, "UrbanWear can benefit from the GPT Question Answering guide as it can help them quickly and easily answer questions from their large datasets, such as customer inquiries or product information requests."
+https://relevanceai.com/workflows/clustering_with_hierarchy, relevance, "By using hierarchical subclustering, UrbanWear can efficiently organize their data and gain insights into customer behavior and preferences, allowing them to tailor their marketing and sales strategies accordingly."
+https://relevanceai.com/workflows/transcribe_youtube, relevance, "The Transcribe YouTube guide can be beneficial for UrbanWear to capture audio from YouTube videos, which could be used for market research, competitor analysis, or extracting customer testimonials."
+https://relevanceai.com/workflows/guided_sentiment_tagging, relevance, "UrbanWear can improve their customer sentiment analysis by using Guided Sentiment Tagging, which can provide more accurate insights into customer feedback and preferences."
+https://relevanceai.com/workflows/guided_sub_tagging, relevance, "Guided Sub-Tagging can help UrbanWear improve data accuracy and save time by automating the process of assigning sub-tags to their datasets, allowing for better data organization and analysis."
+https://relevanceai.com/workflows/guided_tagging, relevance, "By implementing Guided Tagging, UrbanWear can streamline their tagging workflow and benefit from automated tagging suggestions, leading to more efficient data management and analysis."
+https://relevanceai.com/workflows/vector_tags, relevance, "UrbanWear can use Vector Search and Keyphrases to quickly and easily identify relevant tags for their products and customer behavior, improving their marketing and sales strategies."
+https://relevanceai.com/workflows/vectorize_text, relevance, "Using Vectorize Text, UrbanWear can transform their text data into powerful vectorized data, enabling semantic search, clustering, and other advanced data analysis techniques."
+https://relevanceai.com/workflows/vectorize_image, relevance, "The Vectorize Image workflow can help UrbanWear unlock the power of image data, allowing for image-based analysis, recommendation systems, and visual search capabilities."
+https://re
+

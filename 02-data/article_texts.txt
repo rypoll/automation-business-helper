@@ -1,0 +1,467 @@
+Source: make
+No-Code Bootcamp: How to Choose the Right One
+Oct 18, 2023
+You've heard about no-code and how it’s enabling non-developers to build software without having to write code. Determined to ride this wave, you are now looking for the no-code bootcamp that will help you level up your skill set.
+There is one issue though: With so many different no-code bootcamps out there, how do you choose the right one? 
+Before we jump into the details of making this decision, let’s take a brief look at what a no-code bootcamp is. 
+What is a no-code bootcamp?
+No-code bootcamps are educational programs designed to teach participants how to leverage no-code platforms to build software applications, automations, or workflows. 
+It all starts with your goals
+There is no one-size-fits-all program, and choosing the right no-code bootcamp starts with defining your goals. What do you actually want to get out of such a program? 
+To help you define these more clearly, you should first answer the following questions:
+Which topic do you want to learn about?
+What level of proficiency do you wish to achieve?
+What is the best way for you to learn?
+1. Which topic do you want to learn about?
+Did you know that there are not one but two no-code trends and that they are very distinct from each other?
+First up, there’s no-code software development, which empowers you to build applications without traditional coding. If you want to launch an MVP or build your own app, you should focus on learning everything about this topic.
+The second sub-trend is no-code operations. Here, the focus is on business process automation. You will learn how to leverage no-code tools to automate workflows, connect tools with each other, and build custom internal tools.
+While both are worth diving into, it’s best if you choose to focus on one. 
+Learning no-code is a long journey, and being clear on which topic matters the most to you is the best thing you can do. You can always come back to the other one later.
+2. How proficient do you want to become?
+Are you looking for an intro or do you want to go pro?
+Being clear about the level of proficiency you’d expect to have is a fundamental step to choosing the right program. 
+Bootcamps will usually fall into either of these two categories:
+Introductory bootcamps are your gateway to the no-code universe. Whether it’s no-code software development or no-code operations, these programs help you start from scratch and grasp the fundamentals.
+Expert bootcamps are designed for those committed to becoming skilled no-coders. These are your go-to if you're aiming to become a professional no-code developer or a bona fide automation specialist, capable of handling intricate automation projects.
+Introductory bootcamps are great to get a first taste of the topic and build some initial momentum, but there is still a ton you won’t know by the end of these programs. 
+On the other hand, proficiency bootcamps are more comprehensive but this comes at a price: they’re more expensive, take more time, and are more difficult to complete.
+Here again, there is no right or wrong option - be clear about what you are looking for.
+3. What is the best way for you to learn?
+Selecting the right bootcamp is also about finding a learning approach that jives with your professional obligations and personal preferences.
+Some examples:
+If accountability is what makes you stick to your commitments, look for a bootcamp with a strong, supportive community, ideally with peer groups.
+If you need the energy and interactivity of live sessions to learn, opt for a cohort-based program.
+On the other end, if you are too busy with work to commit to a schedule, go for an asynchronous program.
+How much time each week can you realistically dedicate to the program?
+In a nutshell, align your preferred learning style with the bootcamp's methodology. Don’t make commitments you will break later on.
+Closing remarks
+A few more remarks that did not fit in the framework I shared above:
+No-code is a broad, rich topic to explore. Be wary of programs claiming they cover everything.
+Integration platforms like Make are the Swiss knives of no-code: whichever your way is - no-code development or no-code ops - learning an integration platform like Make is a must.
+Makers are the best teachers. Learn from people who are building and practicing what they teach on a daily basis.
+Look for programs designed for you. If past students have similar backgrounds and experience, that’s usually a good sign.
+Embarking on a no-code journey is an exciting endeavor - whether you are exploring the basics or aspiring to become a proficient no-code builder - don’t hesitate to go for it. It can truly be transformative.
+Alex Kantjas
+Alexandre Kantjas is the founder of 9x, a Berlin-based agency specializing in no-code operations.
+Like the article? Spread the word.
+Facebook
+Twitter
+LinkedIn
+Get monthly automation inspiration
+Join 75,000+ Makers and get the freshest content delivered straight to your inbox.
+Subscribe
+
+Source: make
+The Easy Way to Organize Workflows: Introducing Custom Scenario Properties
+Oct 09, 2023
+We see you. Automation has got its hooks into you, and innovative workflows are now your team's co-pilot.
+With this automation surge, the need to effectively organize and manage dozens, if not hundreds, of workflows in your business has never been more pressing.
+At this point, the question is how to achieve this, and the answer lies in Custom Scenario Properties - a new enterprise feature in Make that enables you to organize and manage large volumes of workflows!
+Let's take a closer look at how Custom Scenario Properties can support your automation journey at Make.
+The art of organizing your workflows: What’s possible with Custom Scenario Properties 
+To support your growing list of workflows, we have made it even easier for you to manage and sort processes in Make. 
+With Custom Scenario Properties, you can:
+Save time and effort with an easier way to organize and maintain workflows.
+Focus on innovation and creativity with faster ways to search, filter, find, and review automations.
+Grow your capabilities with powerful tags, descriptions, and insights added to critical business processes.
+Stay nimble and achieve more with transparent workflow information and context shared across your functional teams.
+See Custom Scenario Properties in action
+Let's look at how easy it is to add a scenario property and tag any workflow of your choice. 
+In your Make Organization, click the Scenario Properties tab and then Add property. 
+Here, you can create a Custom Scenario Property tailored to your business needs and distinguish between different severity tiers, different business functions, or even link documentation to existing scenarios.
+Once you have created a Scenario Property, move over to your pre-built workflows and tag scenarios with properties.
+For example, in the Employee Onboarding workflow below, we have: 
+Indicated the severity tier.
+Added the owner and developer of the scenario.
+Tagged the HR business function.
+Included a documentation link with more information.
+These insights provide valuable context to scenarios around the purpose of explaining how it works and improving collaboration between your teams. 
+Lastly, see how you can filter, find, and update scenarios faster in your Make organization. 
+In summary: Grow your automation capabilities with Make
+To keep up with the pace of your progress, we have made it even easier for you to organize and manage large volumes of workflows. 
+We are continuously adding new tools to grow your automation capabilities so you can focus on building creative and innovative solutions that make your work easier and transform critical business processes end-to-end.
+The journey to scaling your automation efforts is not just fueled by the power of Make, but also by its strategic organizational capabilities.
+To learn more about Custom Scenario Properties, check out our guide or explore our enterprise plan, which offers advanced capabilities for teams rolling out automations across their business.
+Dean Maree
+Product Marketing Manager at Make. Passionate about tech and B2B product marketing. A sports enthusiast that also enjoys a run in the forest or a relaxing day out at the beach.
+Like the article? Spread the word.
+Facebook
+Twitter
+LinkedIn
+Get monthly automation inspiration
+Join 75,000+ Makers and get the freshest content delivered straight to your inbox.
+Subscribe
+
+Source: make
+Link: https://www.make.com/en/blog/discord-integrations-guide
+Article Text:
+Discord Integrations: A Guide for Beginners
+Oct 06, 2023
+Discord offers various methods for adding features to a Discord server. For example, we can install bots from the Discord app directory, or create webhooks to receive data from other apps.
+We can also set up Discord integrations to connect Discord with the apps we use to manage our community.
+These integrations aren’t difficult to build and can help power up your Discord server in ways that bots and webhooks can’t.
+So, let’s look at what Discord integrations are, how to build a Discord integration, and integration ideas for extending your Discord server functionality.
+What are Discord integrations?
+Discord integrations are software connections that send data between the Discord chat app and other apps.
+For instance, we can have a Discord integration that instantly translates any message we send to our Discord channel, and then posts the translation back to the same channel.
+By setting up Discord integrations, we get new tools for monitoring and moderating Discord chats via other platforms. Sharing content from other apps to one or more Discord servers also becomes more convenient thanks to integrations.
+The result is that we’re better equipped to enrich the discussions in our servers and to manage our community in a more effective, less resource-intensive manner.
+Discord integrations, bots, and webhooks: What’s the difference?
+Discord integrations, bots, and webhooks differ in terms of the apps they involve and the actions they can take.
+Discord bots are computer programs designed to carry out specific actions within a Discord server - and only within the server.
+For example, you can prompt your Discord bot to generate icebreaker questions in a Discord channel for members to answer. But it can’t connect to other apps - much less send or receive data from them.
+On the other hand, Discord webhooks are URLs that help your Discord server instantly receive data from other apps. They’re useful for automatically sending data from external apps (such as online form submissions) to your server when that data is created.
+But the data transmission works in only one direction, and you won’t be able to use your webhook to send data from Discord to other apps.
+So, Discord integrations offer the most flexibility here. Not only are they able to connect to external apps, but they can also send and receive data from them.
+Which apps can Discord integrate with?
+Twitch, YouTube, and Patreon are some of the apps Discord natively integrates with. These are apps for which Discord offers its own integrations.
+If you seek to integrate with another app - and there are thousands of other apps for which Discord doesn’t feature native integrations - you can either code through the Discord API or rely on a third-party platform like Make, which can integrate Discord with 1,500+ apps. 
+We’ll share more on how Make works later, but apps we can integrate with Discord using Make include:
+Google apps like Gmail, Google Calendar, and Google Drive.
+Project management apps like Trello, Asana, and ClickUp.
+Social media apps like Facebook, LinkedIn, and X (formerly Twitter).
+Find more apps you can integrate with Discord using Make here.
+How to set up a Discord integration
+Option 1: Use a native integration (when available)
+If an app natively integrates with Discord, it will offer built-in settings for connecting your Discord server to it.
+For example, to natively integrate Twitch with Discord, you’ll first need to connect your Twitch Affiliate or Partner account with your Discord user account (not your server).
+After that, you’ll get new settings for enabling and configuring the Twitch integration with your Discord server.
+Making use of an app’s native Discord integration is the most straightforward method of integrating Discord with it. However, these integrations are usually only suitable for simple two-app or two-step integrations - namely, when something happens in one app (which is the first step), something else happens in the second app (which is the second step).
+So, if an app doesn’t have a native integration with Discord, or we want more powerful, multi-step integrations, we can tap into Make to bridge this gap.
+Option 2: Build Discord integrations with Make
+Make is a powerful integration platform for connecting apps, sending data between them, and setting up the actions that take place when they receive the data.
+For example, we can build a Google Calendar-Discord integration that gets a list of our Google Calendar events for the day and then posts the list to our Discord server.
+Make works on a no-code basis, meaning that we’ll be able to build our integrations without writing a single line of code. That’s because Make’s app modules already contain the code needed to make our integrations work.
+On our end, we’ll just need to drag and drop the modules into a visual editor, and then customize their settings.
+3 Discord integrations you can build with Make
+Before building a Discord integration, you’ll need to know the apps you want to integrate with Discord, as well as the goal or purpose of the integration.
+This can be challenging if you’re new to integrations, but here are three Discord integration ideas to inspire you.
+We’ll also include their templates (pre-built integrations featured by Make) in case you want to deploy them in a matter of minutes. 
+1. Dropbox-Discord integration: Send new Dropbox file URLs to Discord
+The Make template below provides a preconfigured Dropbox-Discord integration that looks out for newly uploaded Dropbox files.
+When it finds such a file, it creates a share link for the file. Then, it sends a message containing the file’s name and URL to our Discord server.
+You’ll find this integration useful when:
+You’re uploading large files to Dropbox and want a Discord notification when the upload is done.
+You want to automatically notify your Discord community when you (or someone else) have uploaded a file to a shared Dropbox.
+2. Trello-Discord integration: Turn Discord messages into new Trello cards
+Did you get assigned new tasks after holding discussions on Discord?
+Instead of manually launching Trello and creating cards for these tasks, let Make handle this for you.
+This Make template creates a Trello-Discord integration that:
+Watches for messages in a specified Discord channel.
+Automatically turns each message into a Trello card.
+Pro tip: When setting up this Trello-Discord integration, create a new Discord channel for posting messages you intend to turn into Trello cards.
+You don’t want to create unnecessary Trello cards for the casual banter happening in your channels!
+3. DeepL-Discord integration
+Before translation apps like DeepL can work their magic, we’d need to copy/paste our foreign-language text into them.
+This work isn’t difficult, but it can be tedious - unless we automate it.
+Use this Make template below to set up a DeepL-Discord integration that:
+Watches for new Discord channel messages.
+Translates these messages to a certain language.
+Post the translation back to Discord.
+You can connect this integration to a dedicated Discord channel for receiving message translation requests (similar to the Trello-Discord integration mentioned earlier).
+Alternatively, you can integrate DeepL with your existing channels to have the app translate all foreign-language messages posted there. The choice is yours!
+How to build a Discord integration with Make
+Have ideas for a Discord integration? Then let’s get into the nuts and bolts of building it in Make.
+Method 1: Use a template
+If your Discord integration is available as a Make template, building it is as simple as:
+Copying the template to your Make account.
+Connecting your app accounts to the template’s modules.
+Customizing the modules’ settings.
+For example, you’ll need to connect your Discord account to the template’s Discord modules and customize the contents of messages sent to your Discord channel.
+If you think this is complicated, don’t worry: It only takes a couple of clicks to connect apps to Make.
+We’ve shared some Make templates above to get you started, and you’ll find dozens of others in our template library.
+Method 2: Build a Discord integration from scratch
+Make’s visual editor can accommodate unlimited app modules and scenario routes, allowing you to build any Discord integration you can think of.
+Start by identifying - and adding - the app module that should kick-start your integration.
+For example, if you want the integration to take action on newly posted Discord messages, then add the Discord > Watch Channel Messages trigger module to it.
+After that, add action modules, filters, and routers to send your Discord data to other apps for their processing and action.
+Let’s say that you want your integration to save all new Discord channel messages to a Google Doc. In this case, add the Google Docs > Insert a Paragraph to a Document action module after the Discord > Watch Channel Messages trigger module.
+Learn more about building custom Make integrations here.
+Integrate your favorite apps to do more with Discord
+Ready to set up a Discord integration or two for your server? Then here’s how we’d recommend approaching the process:
+Check if there’s a native integration for the specific app functionality you want to add to Discord. If there is and it fits the goal of your integration idea, use it.
+If a native integration doesn’t exist, check if the Discord integration is available as a Make template in our template library.
+If you find a suitable template, use it to build your Discord integration. Otherwise, build the integration from scratch in Make.
+And if you need a Make account but don’t have one, you can sign up for free here!
+Siew Ann Tan
+Freelance B2B SaaS content writer and serial automator. Siew Ann is unapologetically proud of the number of personal and business workflows she has automated with Make (35+ and counting!).
+Like the article? Spread the word.
+Facebook
+Twitter
+LinkedIn
+Get monthly automation inspiration
+Join 75,000+ Makers and get the freshest content delivered straight to your inbox.
+Subscribe
+
+Source: make
+Link: https://www.make.com/en/blog/why-is-my-discord-ping-so-high
+Article Text:
+Why Is My Discord Ping so High? | How To Lower Your Ping Rate in 2023
+Sep 29, 2023
+Few things are more frustrating than ping issues when it comes to using Discord. 
+After all, Discord is about quick communications, and seeing these getting interrupted is exactly the opposite of what every user wishes to experience with this beloved product. 
+A high Discord ping indicates lag, which can happen for many different reasons. The most common ones include:
+Platform outages
+Internet connection issues
+Background processing issues (too many apps running at the same time)
+Having the “hardware acceleration” feature turned off on Discord
+Using the PTB or Canary versions of the app
+Outdated drivers
+Too many cache files
+Normally, high Discord ping is due to platform outages, internet connection issues, or having too many apps running in the background. 
+As you can sense, some of these problems can be fixed right away, while others will be beyond your powers. Let’s take a look at each one of them, and evaluate potential fixes.
+1. Discord outages
+Growing pains and whatnot, “Discord down” situations are rare, but not entirely uncommon: according to the company’s status page, major outages happen about once a month. 
+Discord outages that affect communications are often related to key APIs such as Gateways, which is how Discord guarantees real-time communications over secure WebSockets. 
+Needless to say, there is not much you can do about outages other than wait for the company to fix them.
+2. Internet connection issues
+This can be a common reason for Discord lag. Internet connections are affected by a myriad of reasons, spanning from weather to faulty modems and overloaded networks. 
+I live in a rainy location, and had to switch internet service providers because of the weather in my area. I used to rely on a DSL connection, which runs through landline phone wiring and is often affected by rain and wind. 
+After noticing that the situation was not going to change, I switched to fiber, and that was it. No more connection issues, and stable internet around the clock. 
+Tip: if you want to perform a quick internet speed test, just type “internet speed test” on Google, and a tester should appear right away on your screen. Of course, if you have no internet at all, you will certainly notice before having to do this.
+
+Tip #2: if you are a VPN user, please note that these tend to slow down your connection. Before trying anything else, switch your VPN off, and make sure that it's not the root of the problem.
+3. Background processing problems
+Using too many apps at the same time can explain why your Discord freezes -- it’s not the server, it’s you. 
+This can also happen if you keep multiple tabs open on your browser, but you don’t have to worry. It happens to the best of us, and it’s easily solvable. 
+
+
+First, get rid of the tabs you are not using on your browser. If the problem persists, close the apps that you are not using or need at the moment (check the taskbar to do this). Now, if nothing of this works, you will have to use the Task Manager (on Windows). 
+
+
+The task manager will let you see which processes are consuming CPU and memory, and decide what to do about them.
+4. Limited hardware resources
+Laptops and mobile devices grow old, and hardware restraints become real. If getting a new device is out of the question, Discord's Hardware Acceleration Feature is the path to follow. 
+This feature allows you to dedicate more resources to your Discord app. Many users have reported that activities like screen-sharing and game streaming trigger lag. To enable the feature on the app, you will need to:
+Click on the settings icon ⚙️
+Click “Appearance” on the left menu
+Under “Advanced options”, toggle hardware acceleration on
+After you do this, a message telling you to relaunch your Discord app will appear. Click “Okay”, and relaunch the app to finish the process. 
+If you want to keep your FPS high and your ping down, you might want to try this one out.
+5. Discord app version
+There are three versions of the Discord app:
+Stable
+Public Test Build (PTB)
+Canary
+Discord PTB and Canary are beta and alpha versions, respectively. Users that have any of these versions of the app basically help Discord test new features. Needless to say, they are also prone to encountering more errors than those who use the Stable release. 
+Checking your Discord version is easy and necessary. Why? Simple: because the PTB release has the same icon of the Stable one, and sometimes users are running PTB without even noticing.  To err is human, to get the Stable release is divine.
+6. Outdated drivers and other device issues
+There is always the chance that the devices you normally use for Discord -- namely, headphones and microphone -- are either broken, not properly connected, or lacking updated drivers. 
+You will likely notice a broken device or a loose audio jack right away, but drivers are more sketchy. 
+Sometimes, computers don’t recognize devices, even if the drivers are updated. Furthermore, it can be hard to find the exact driver your device needs (particularly when you are dealing with less-popular brands). 
+In any case, it’s worth checking them up. In Windows 10, all you need to do is use the search engine on the taskbar and type “device manager”. Once there, you will be able to check your devices and see if driver updates are required. 
+To conclude, please bear in mind that whenever Discord is relaunched, audio settings get reset. In other words, if you depend on very specific settings to use Discord, this might be the root of the problem.
+7. Cache files all over
+Saving cache files on your device is a common way for apps to grant quick-loading content. However, Discord servers that deal with lots of files (usually, images) might take a toll on your device. 
+Why? Because files occupy storage space, and storage space is limited. This problem tends to surface first on mobile devices but may also affect desktop computers as well. 
+In any case, here you will find useful guides to clear your device’s cache on:
+Android
+iPhone and iPad
+Windows 10
+Mac
+Once you free up your device from cache files, it should start running a bit more smoothly than before. This can help you get rid of Discord lag; it’s a long shot, but worth trying when nothing else works.
+Mitigating the frustration: an integration to automatically monitor Discord status
+Picture this: you’ve fixed yourself a treat and are ready to start a Discord session with your friends, only to find out that the service is down. 
+This is beyond annoying, but I came up with a method to cancel out the unpleasant surprise: a Discord status monitoring system, made with Make. 
+
+
+The integration is pretty simple. All you need is:
+A Gmail account
+An Make account
+In case you don’t have a Gmail account, you can use a regular email account, or a Slack account as well. In every case, this integration will send you an alert when the service is down.
+How does it work?
+The monitoring system checks the Discord Status page on a selected frequency (up to a 1-minute interval), and sends you an email when the service is down. 
+This little system relies on the following Make modules:
+HTTP
+Gmail
+The good news is that you don’t have to set anything up since the integration is available as a template. 
+The HTTP module is pre-filled, and the filter is already set up. 
+All you will need to do is:
+Connect your Gmail account (you can do this directly in the Gmail module)
+Define the frequency of the monitoring (see the image below)
+
+
+And voila! Automated alerts for when Discord is down.
+Conclusion: What is a good ping for Discord?
+Any ping lower than 100 ms is certainly good enough. Between 20 ms and 50 ms can be described as "great ping", and below 20 ms it falls under the "miraculous" category. 
+On the other hand, having a high Discord ping is frustrating, but there are workarounds that can help you fix Discord latency issues. 
+In the end, identifying the source of the problem and dealing with it is the best course of action. And in the cases where the problem is definitely not on your side, implementing solutions that mitigate the anxiety and frustration can be equally important. 
+To conclude, if you are interested in more Discord automation topics, here's our introductory guide to Discord webhooks. 
+That’s all for today, folks. 
+Happy automating!
+This article has been updated with new information regarding ping values on August 11, 2020.
+Martin Etchegaray
+Content Manager and Senior Editor at Make. I enjoy writing and reading about history, science, and tech.
+Like the article? Spread the word.
+Facebook
+Twitter
+LinkedIn
+Get monthly automation inspiration
+Join 75,000+ Makers and get the freshest content delivered straight to your inbox.
+Subscribe
+
+Source: make
+Link: https://www.make.com/en/blog/how-to-get-started-with-meta-conversions-api
+Article Text:
+Facebook Conversions API: The Quickest Guide to Understand It
+Sep 28, 2023
+Whether you're a brick-and-mortar business, a purely online one, or a hybrid one, Facebook’s Conversions API helps you optimize your campaigns by letting Meta know which audiences are best to engage with your campaigns.
+In other words, Conversions API is an incredibly powerful tool for understanding your website conversions and optimizing your campaigns to increase them. 
+In times when cookies are getting left behind, Conversions API stands out as one of the fastest, most complete pathways toward understanding why - and how - web visitors turn into customers.
+Audiences, conversions, and the missing piece
+Nowadays, businesses use multiple channels to convert leads into customers: Online through websites, campaigns, and social media, but also offline through physical stores and events.
+In most cases, this leads to a specific problem: the lack of cohesive, updated data regarding conversions, which translates into misaligned campaigns and wasted resources.   
+Let’s illustrate this with a simple example. 
+There’s a car maker that sells its models online, and also physically (or “in person”) through a network of dealerships. 
+Dealers upload their sales and conversion data into their own internal systems but fail to share some of the details with the car maker (or do it too late), who in turn keeps targeting people who already converted into customers with the wrong messages across the web and social media.
+The missing piece is the Conversions API.
+By leveraging the Conversions API, the car maker would get the necessary data to target people who converted offline with appropriate messaging, leading to more cost-effective marketing. 
+How to get started with the Conversions API
+According to Meta, “the Conversions API is designed to create a direct connection between your marketing data and the systems that help optimize ad targeting, decrease cost per result, and measure outcomes across Meta technologies.
+Examples of marketing data include website events, app events, and offline conversions. This marketing data helps enable ad personalization, optimization, and measurement across Meta technologies so that your ads are shown to people who are more likely to find them relevant.”
+We’re aware that some of you will read this and think about the technical and financial challenges of deploying this solution, but worry not.
+With Make, you don’t need developers to set up your integration to Meta's Conversions API because we make it easy.
+With Make, it’s the marketers who can do this on the spot. 
+Make's integration with Meta allows you to inform Meta of the conversion events happening on your site by automatically pushing events to the Conversions API. 
+Make shares contact information (such as email or phone), event data (e.g. purchase and event value: $100), and order ID all in a privacy-compliant and secure way.
+Furthermore, if you're in the lead generation business, the Conversions API has a solution for you too: Conversion Leads. 
+With Conversion Leads, you can track leads at various stages of maturity in your CRM and pass that information back to Meta. 
+Meta Ads algorithms will find new leads that resemble your best-performing and furthest-progressing existing leads. 
+It's time to start optimizing your campaigns for quantity and quality. 
+Try Make today with our special promo offer and sign up absolutely free. You will get the Teams plan along with 20,000 operations for a month - an offer valid until 17th December, at no cost. It's completely self-service, with no need for a credit card or agreement.
+And that’s it for now. In the future, we’ll do a deep dive on how to use Make to connect your apps with Meta’s Conversions API and Conversion Leads without writing a single line of code. 
+Daniel Zrust, Solutions Architect at Make
+Daniel is responsible for educating users about how to get the most value out of Make.
+Like the article? Spread the word.
+Facebook
+Twitter
+LinkedIn
+Get monthly automation inspiration
+Join 75,000+ Makers and get the freshest content delivered straight to your inbox.
+Subscribe
+
+Source: make
+Link: https://www.make.com/en/blog/how-to-add-a-calendar-to-discord
+Article Text:
+How to Add a Calendar to Discord: The Full Guide
+Sep 27, 2023
+Although Discord users have been clamoring for a calendar feature for at least five years now, it hasn’t materialized yet, and it’s uncertain if it ever will. 
+Sure, there is the Scheduled Events feature, but it doesn’t work very well as a calendar. 
+At the end of the day, there is no native offering of built-in calendar bots or integrations with calendar apps.
+As a result, keeping track of events in your Discord server can be a hassle.
+The solution to this pressing issue is tapping into Make’s capabilities for connecting Discord with Google Calendar.
+By leveraging Google Calendar - Discord integrations we can add our events to our calendar and automatically send Discord notifications about these events to our community.
+Let’s look at how such Discord calendar functionality would work - and how you can set it up for yourself.
+Is there a way to add a calendar to Discord?
+There are options for adding calendar features to Discord. Some are native (i.e. officially developed and offered by Discord), and others are 3rd-party. Let’s take a look at them.
+Option 1: Use Discord’s Scheduled Events feature
+This feature lets you add events to your Discord server as shown below:
+People interested in the event can tap the “Interested” button to be notified when it starts.
+This simple feature can accommodate only one-off events, and setting up recurring events isn’t possible at this time.
+At best, Discord will display your events in a list (as shown in the image above), but there’s no true calendar view where you can see events in day, week, or month format.
+To achieve that, you’d need to add your scheduled Discord events to an external calendar app.
+Discord also offers a built-in option for duplicating your events to a Google, Yahoo, or Outlook Calendar, but you’ll need to manually do this for every new event you schedule. 
+This isn’t the most ideal solution if you regularly hold events (especially recurring ones).
+Option 2: Integrate Google Calendar with Discord
+Given the limitations of scheduling events natively, it makes more sense to create our events in Google Calendar, and then send notifications to Discord instead.
+This way, we can access Google Calendar’s powerful features for viewing events in our preferred day/week/month format, setting up recurring events, creating video meeting links, and more.
+There’s no native Google Calendar-Discord integration for automatically notifying Discord members of new Google Calendar events, but we can easily build our own such integration using Make.
+What can you do when you integrate Google Calendar with Discord with Make?
+Make is a no-code platform for building integrations between 1,500+ apps, including Google Calendar and Discord.
+When you integrate the two apps using Make, you can look forward to effortlessly doing calendar-related tasks such as:
+1. Posting a message for each of the next day’s events to your Discord server
+Give members a heads-up of the events happening the next day so they remember to turn up. The template below helps create a Google Calendar-Discord integration that:
+Monitors newly created Google Calendar events.
+Sends a Discord message for each event taking place the next day.
+You can even modify the integration to change the duration of advance notice you give members about upcoming events (for example, a week, a day, or 10 minutes before the event).
+2. Updating your Discord members when an event has ended
+After reminding members about your events’ start dates, you can also notify them about the ending of events. 
+This is helpful in terms of keeping things organized, and also to avoid people joining (very) late to events that have already been held.
+Using Make, you can rely on an integration that watches for your Google Calendar events’ end dates, and then sends a Discord message to inform members when an event has ended.
+This template will help you get this integration set up in no time:
+3. Informing Discord members of canceled events
+If you have to cancel an event, let your members know as soon as possible so they are aware and do not show up. Especially if you were holding an offline event that members need to spend time and money traveling to!
+This Make template is similar to the others shared above, but it watches for Google Calendar events with the “Canceled” status:
+If it finds such an event, it sends a Discord message containing the event’s details to your members.
+How to build a Google Calendar-Discord integration with Make
+If you don’t have a Make account, sign up for one here first.
+You can then build your Google Calendar-Discord integration using these methods:
+Method 1: Use a Make template
+Log into your Make account, and select the template you need. As a pre-built solution, setting it up will only take a couple of minutes. 
+This means customizing the settings, such as selecting the calendar that contains the events you want to watch and writing the text that your Discord messages should contain.
+Method 2: Build your integration from scratch
+If there isn’t a template for the integration you have in mind, you can build the integration yourself. This involves identifying:
+The function or goal of the integration.
+The apps you’ll need to use in the process.
+The actions these apps need to take to achieve your objective.
+You can find the available modules for Google Calendar here, and the available Discord modules here.
+Let’s say we want to build a Google Calendar-Discord integration that sends a list of the day’s upcoming Google Calendar events to our Discord server, like this:
+To do so, our integration could include these modules:
+A Google Calendar > Search Events module that searches for all events happening on the day the integration is run.
+A Tools > Text aggregator module to compile these events into a list.
+A Discord > Send a Message module to send this event list to our preferred Discord server and channel.
+Here’s how this integration will look when built:
+Learn more about building your own integrations with Make here.
+Add even more functionality to your Discord server
+We just went through just a few ideas for adding a calendar to Discord, but there’s more.
+If you don’t use Google Calendar, you can easily replace it with other calendar apps featured by Make, such as Outlook Calendar.
+Make can also help you enhance Discord with more features, such as:
+Posting new tweets to Discord.
+Sending Google Chrome push notifications for new Discord messages. 
+Automatically translating new Discord messages.
+Ready to upgrade your Discord server?
+Sign up for a Make account here to start exploring the possibilities!
+Siew Ann Tan
+Freelance B2B SaaS content writer and serial automator. Siew Ann is unapologetically proud of the number of personal and business workflows she has automated with Make (35+ and counting!).
+Like the article? Spread the word.
+Facebook
+Twitter
+LinkedIn
+Get monthly automation inspiration
+Join 75,000+ Makers and get the freshest content delivered straight to your inbox.
+Subscribe
+
+Source: make
+Link: https://www.make.com/en/blog/cancer-research-and-automation
+Article Text:
+How the ICRF Tackles Cancer Research With Automation
+Sep 26, 2023
+Welcome back to our series of Impact Stories, where we introduce organizations that serve their communities - and the world - for the better. The common thread in this series is the power of automation, and how it can help organizations achieve their goals in a fast, efficient manner. 
+When it comes to fighting cancer, the Israel Cancer Research Fund (ICRF) is leading the charge. This New York City-based group is empowering Israel’s best and brightest scientists as they tackle this illness that claims nearly 10 million lives around the world every year. 
+Their scientists are primarily focused on five main areas: Basic science, prevention, detection, treatment, and quality of life for patients living with cancer. 
+Working with a team of 20, plus some loyal volunteers scattered across the globe, the ICRF conducts worldwide fundraising efforts and then invests the proceeds in cutting-edge scientific research in Israeli labs. 
+To date, they have provided more than $87 million to support nearly 3,000 grants to Israel-based cancer researchers. And, excitingly, many of the grant recipients have been responsible for significant cancer research breakthroughs.
+But, as an organization that was founded in the 1970s, the ICRF found that much of their medical and scientific data and processes weren’t necessarily optimized for 21st-century solutions. 
+Additionally, a staff that was spread across multiple countries made collaboration less than ideal. 
+So, they looked to Make to bring their operations up to speed and enable their team of researchers to keep doing their important work with fewer roadblocks. 
+How the ICRF uses Make
+The ICRF primarily uses Make to handle research monitoring, donor management, and bookkeeping tasks and describes the platform as the “magic” behind many of their new and improved processes. 
+One of the most important aspects of any fundraising organization is having a clear view of incoming donations and available resources. 
+For this, the ICRF developed a Make scenario to send automatic, daily notifications to stakeholders with the amount of money raised the previous day. 
+Parallelly, various teams are notified via a Make scenario whenever a grant payment is due, streamlining the process of collecting invoices, generating payments, and gathering all the necessary documentation around this activity. 
+The results of the ICRF’s automation efforts
+Since implementing Make into their daily operations, processes that had been designed nearly five decades ago are working more smoothly, and with significantly less paperwork. 
+Moreover, the organization has used its success with Make to rethink daily habits and examine how to better operate from an organization-wide perspective. 
+Their end game has always been the same - do everything in their power to fight cancer. And, with automation in their corner, they are able to take on the challenge more efficiently. 
+Make enables us to save precious time and use that time for additional fundraising for cancer research. The answer to cancer is research, so essentially Make isn’t just helping us save time – they are helping us to save lives
+- ICRF Executive Director, Lior Lapid. 
+The numbers speak for themselves. Since implementing Make behind the scenes, more than 500 new donations came through the websites, and donor retention is up by more than 60%, more than 3 times compared to the industry average.
+They can also lay claim to enabling the development of several new drugs, as well as various new treatment and diagnosis protocols that are now used globally. 
+The work the ICRF’s researchers are doing is so groundbreaking, in fact, that two of their researchers have won Nobel prizes for their discoveries. 
+What’s next for the ICRF?
+After experiencing the benefits of automation, the ICRF is firmly committed to implementing Make’s capabilities across the organization. 
+Saving time on manual tasks enables them to focus on more important work - and in this case, it’s saving lives. 
+Additional use cases are in development, including creating a research database to showcase the thousands of research initiatives that they have already funded, which, they hope will lead to greater transparency, more fundraising, and additional resources with which to continue the fight against cancer. 
+The Israel Cancer Research Fund is a non-profit organization founded in 1975. The organization consists of scientists, researchers, and volunteers from across the United States, Canada, and Israel, and it has generated nearly $100 million to support cancer research since its inception. 
+To apply for Make’s NGO program, click here.
+Elizabeth Ludrick
+I'm an editor and copywriter at Make. I'm also a Texan and long-time Prague transplant with an interest in fashion, global press freedom, and finding the best Mexican food in any city.
+Like the article? Spread the word.
+Facebook
+Twitter
+LinkedIn
+Get monthly automation inspiration
+Join 75,000+ Makers and get the freshest content delivered straight to your inbox.
+Subscribe
+

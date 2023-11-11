@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://relevanceai.com/workflows/document_ai",
+    "source": "relevance",
+    "why": "Using Relevance's Document AI, the TechTrendz company can streamline the process of unlocking the potential of their data and extract valuable information from various documents quickly and efficiently. They can use this powerful solution to streamline work, uncover insights hidden within data documents, and manage the process faster and affordably.",
+    "hours_saved": 8
+  },
+  {
+    "url": "https://relevanceai.com/workflows/insert_csv",
+    "source": "relevance",
+    "why": "With Insert CSV workflow, TechTrendz can unlock the power of their data by quickly and easily importing data from CSV files. This streamlined process can make their data management more efficient, with the capability to easily fill their databases with external data.",
+    "hours_saved": 5
+  },
+  {
+    "url": "https://relevanceai.com/workflows/generate_diffusers_image",
+    "source": "relevance",
+    "why": "Discovering how to use the new Diffusers image library through the workflow allows TechTrendz to easily generate custom and beautiful images for their storefront, social media campaigns, or marketing materials. This can save time, the potential need for graphic designers, and provide unique content for their business.",
+    "hours_saved": 6
+  },
+  {
+    "url": "https://manychat.com/blog/the-clever-gamification-giveaway-achieved-227-59-roi-and-19000-in-sales-for-four-reasons/",
+    "source": "manychat",
+    "why": "By leveraging clever gamification tactics described by Manychat, TechTrendz can design and execute engaging promotional campaigns for their tech gadgets during sales events. This can significantly increase customer engagement, provide valuable insights from the interactions, and result in increased sales revenue for their e-commerce platform.",
+    "hours_saved": 10
+  },
+  {
+    "url": "https://manychat.com/blog/how-conquista-tu-mundo-with-johnny-abraham-leveraged-manychat-to-drive-15000-in-launch-sales-in-20-days/",
+    "source": "manychat",
+    "why": "Understanding how Manychat was leveraged to drive sales, TechTrendz can implement a similar strategy for their own marketing and sales campaigns. Improving their customer communication and driving sales conversations through impactful and strategically designed conversations can lead to enhanced engagement and ultimately increased sales.",
+    "hours_saved": 7
+  }
+]
+

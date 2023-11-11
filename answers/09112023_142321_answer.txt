@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://manychat.com/blog/marketing-automation-tools/",
+    "source": "manychat",
+    "why": "Using ManyChat’s guide on Marketing Automation Tools, TechTrendz can improve its marketing campaigns through streamlined and automated processes. This guide offers understanding and insight into available tools that can bolster TechTrendz’s marketing strategy, making it more efficient and maximizing returns.",
+    "hours_saved": 5
+  },
+  {
+    "url": "https://manychat.com/blog/workflow-automation/",
+    "source": "manychat",
+    "why": "By following ManyChat's guide on Workflow Automation, TechTrendz can optimize the integration of their e-commerce, CRM, marketing, and other operational tools, allowing them to streamline processes saving time, preventing errors, and ultimately increasing efficiency and productivity.",
+    "hours_saved": 8
+  },
+  {
+    "url": "https://manychat.com/blog/back-to-school-examples/",
+    "source": "manychat",
+    "why": "With the guide on Back to School Examples, TechTrendz can improve its seasonal marketing strategies by getting insight into excellent marketing examples and best practices for their segments, which can enhance the quality of their campaigns, leading to better customer engagement and conversions.",
+   "hours_saved": 4
+  },
+  {
+    "url": "https://manychat.com/blog/customer-relationship-management-tools/",
+    "source": "manychat",
+    "why": "The best Customer Relationship Management (CRM) tools listed in ManyChat's guide can significantly help TechTrendz manage customer data more effectively and build better relationships as they engage with their audience. These tools can offer TechTrendz more personalized insights into their customer base and streamline various CRM activities.",
+    "hours_saved": 6
+  },
+  {
+    "url": "https://manychat.com/blog/how-memorial-day-staple-boosts-conversions/",
+    "source": "manychat",
+    "why": "Through examples provided in the guide on How Memorial Day Staple Boosts Conversions, TechTrendz can learn tactics to deploy persuasive strategies during specific events to increase sales and market competitiveness. This can help tech trendz cater to customers with relevant solutions, thereby improving their conversions and financial growth.",
+    "hours_saved": 4
+  }
+]
+

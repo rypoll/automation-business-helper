@@ -1,0 +1,11 @@
+url, source, why, hours_saved
+https://zapier.com/blog/best-ai-marketing-tools/, aidigestive, "Zapier can be used to automate marketing efforts targeted at customers through various social media channels. This can save many hours every week by automating the process of scheduling personalized campaigns according to customer data from the CRM.", 20
+
+url,source,why,hours_saved
+https://blog.replit.com/ai4all, aidigestive, "Replit has announced free, open access to its AI-powered suite of coding tools, including debugging, autocompletion, and text-to-code features. These tools make coding more efficient and accessible, allowing developers to enhance their coding capabilities and build innovative solutions.", 20
+https://callzen.ai/, aidigestive, "Call Zen is a conversational AI tool for customer success. It can help provide quick responding to customer inquiries, manage customer conversations and inquiries more efficiently and improve overall customer support.", 30
+https://cal.ai?utm_source=theneuron, aidigestive, "Cal.ai enables auto-scheduling of meetings, saving time spent on coordinating meeting schedules.", 10
+https://zapier.com/blog/best-ai-marketing-tools/, aidigestive, "This guide features the best AI marketing tools in 2023. UrbanWear can use these tools to create more effective, personalized campaigns across their social media channels using HubSpot, targeting customers with personalized campaigns across social media channels.", 15
+https://www.getfreed.ai/, aidigestive, "This guide features AI tools for content creation and automation. UrbanWear can use these tools to automate social media posts, save time on creating content and producing advanced blog posts.", 25
+https://github.com/aavetis/azure-openai-logger, aidigestive, "Azure OpenAI logger is an observability tool that gives detailed insights on the Azure OpenAI instances, aiming to improve performance and debug issues effectively.", 20
+

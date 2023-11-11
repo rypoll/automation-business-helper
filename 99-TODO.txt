@@ -1,0 +1,4 @@
+#1. many chat didnt scrape the titles correctly
+#2. scrape from relevance.ai
+#3. scrape from hubspot
+#4. scrape pdf i downloaded from hubspot in data folder

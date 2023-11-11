@@ -1,0 +1,53 @@
+tech ive used:
+
+# AI Tech
+* Make.com
+* Manychat
+* Voiceflow - what are its integrations?
+* Highlevel
+* instantly
+* Botpress
+* StackAI
+* Zapier
+* HubSpot
+* Relevance
+* OpenAI
+* API
+
+# Data Science Tech
+* Flask
+* Docker
+* AWS
+* Azure
+* Google Cloud Platform
+* Machine Learning
+* Deep Learning
+* Javascript
+* Flutter
+ 
+
+
+#industries they can be applied to (but i havent worked in specifically, but dont mention this, try to relate these industries to the purpose of the about section.:
+
+Education
+ECommcerce
+Healthcare
+Cybersecurity
+Retail
+Finance
+Human Resources
+Customer Service
+Marketing
+Legal
+Logistics
+Construction
+Real Estate
+
+# industries i've worked in and applied data science techniques to:
+Energy
+Banking
+Finance
+Pharma
+
+# industries I've applied AI to:
+retail

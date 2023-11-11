@@ -1,0 +1,21 @@
+url, source, why, hours_saved
+'https://try.sanebox.com/rgpca', aidigestive, SaneBox uses AI-powered filtering to prioritize important emails and automate tasks, saving time and improving productivity., 5
+'https://fabric.so/AI-assistant', aidigestive, Fabric AI is an AI assistant that serves as a copilot for all your apps, providing assistance in various tasks., 10
+'https://docus.ai/', aidigestive, Docus AI - Diagnose fast with AI, verify with top human doctors., 8
+'https://slack','slack.com', Asana for managing the team's tasks can be improved by using Fabric AI which serves as an AI assistant, providing assistance in various tasks., 15
+'https://www.ncntechnology.com/contact-us/', aidigestive, Schedule a free expert consultation with NCN Technology for AI systems., 5
+'https://aws.amazon.com/about-aws/whats-new/2023/10/aws-announces-microsoft-copilot-service/', aidigestive, AWS has launched a new service that allows customers to rent Nvidia GPUs for quick AI projects. This service provides flexibility and convenience for users needing temporary GPU resources for their AI workloads., 10
+'https://www.apple.com/newsroom/2023/10/apple-unveils-m3-m3-pro-and-m3-max-the-most-advanced-chips-for-a-personal-computer/', aidigestive, Apple announces new M3 chips with serious AI capabilities for its MacBook Pros, including support for larger transformer models and faster Neural Engine., 15
+'https://lakera.ai/?utm_source=Newsletter&utm_medium=Email&utm_campaign=The-Neuron&utm_content=Ad1', aidigestive, Lakera Guard offers a single line of code for protecting AI applications. It provides enterprise-grade security against issues like prompt injections, data loss, harmful content, and LLM risks., 12
+'https://github.com/','github', Microsoft's Github Copilot has gained over a million paying users, highlighting its popularity and adoption among developers., 10
+'https://www.microsoft.com/en-gb/microsoft-365/blog/2023/11/01/microsoft-365-copilot-ai-office-documents-launch-business-enterprise-pricing-release-date/', aidigestive, Microsoft 365 Copilot, an AI-powered tool for office documents, will cost $30/month per user for enterprises with 300+ users., 3
+'https://dialpad.com/','dialpad', Dialpad introduces custom AI playbooks to improve adherence to best practices for sales calls., 5
+'https://www.linkedin.com/feed/news/google-outlines-new-models-for-2024-6180141/', aidigestive, Google plans to introduce a 'next generation series of models' in 2024., 5
+'https://www.kdnuggets.com/ai-machine-learning-news-week18-22.html', aidigestive, Introducing AI marketing tools that leverage machine learning algorithms and predictive analytics to optimize marketing campaigns, personalize customer experiences, and improve lead generation and conversion rates., 8
+'https://medium.com/', 'medium', Google has a secret AI tool called Stubbs on Google Makersuite for building basic AI prototype apps visually with no code required., 20
+
+url, source, why, hours_saved
+['https://www.openai.com/blog/chatgpt-october-2023-update/', 'https://platform.openai.com/docs/introduction', 'https://openai.com/blog/introducing-chatgpt-enterprise'] , OpenAI DevDay, "DevDay introduced GPT-4 Turbo and Custom ChatGPT which will help to improve the efficiency of customer communication and data analysis." , 10
+['https://www.kdnuggets.com/the-top-5-cloud-machine-learning-platforms-tools'], KDNuggets, "Provides the top cloud machine learning platforms and tools. This will help with data analysis and visualisation of data for insights."
+10
+

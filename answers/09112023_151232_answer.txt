@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://relevanceai.com/workflows/text-search-connected-qa-studio",
+    "source": "relevance",
+    "why": "Discover how Question Answering via GPT can help TechTrendz quickly and easily respond to customer inquiries and provide instant responses to questions via its e-commerce site. It can notably improve customer experience and engagement while also reducing manual effort in customer support activities.",
+    "hours_saved": 10
+  },
+  {
+    "url": "https://relevanceai.com/workflows/split_text_into_chunks",
+    "source": "relevance",
+    "why": "Using the Split Text into Chunks workflow, TechTrendz can easily organize and structure text data for product cataloging, descriptions, and other site content, saving time and manual effort by quickly sorting through and managing the extensive amount of text in their e-commerce platform.",
+    "hours_saved": 15
+  },
+  {
+    "url": "https://relevanceai.com/workflows/image-deblur",
+    "source": "relevance",
+    "why": "Transforming blurry product images into crystal clear ones with the Image Deblurring workflow can tremendously enhance the user experience on TechTrendz's e-commerce site. It ensures product visibility and attractiveness, potentially leading to an increase in conversion rates and sales.",
+    "hours_saved": 5
+  }
+]
+
+[]
+
+[
+  {
+    "url": "https://manychat.com/blog/facebook-sales-funnel/",
+    "source": "manychat",
+    "why": "Using ManyChat, TechTrendz can automate their Facebook sales funnel to effectively engage with potential customers using automation leading to automated sales processes.",
+    "hours_saved": 3
+  },
+  {
+    "url": "https://manychat.com/blog/b2b2c-ecommerce/",
+    "source": "manychat",
+    "why": "ManyChat guides offer insights about B2B2C Ecommerce, which is something TechTrendz could implement to understand the nuances and technologies used in the new realm of business, thereby improving sales and customer experience.",
+    "hours_saved": 5
+  },
+  {
+    "url": "https://manychat.com/blog/social-media-automation/",
+    "source": "manychat",
+    "why": "Several social media automation tools in the guides can benefit TechTrendz in streamlining marketing processes, allowing efficient management of the social media accounts the organization uses to engage with its audience, such as Twitter and LinkedIn.",
+    "hours_saved": 6
+  },
+  {
+    "url": "https://manychat.com/blog/how-to-use-instagram-for-ecommerce-the-ultimate-guide-for-online-sellers/",
+    "source": "manychat",
+    "why": "Given TechTrendz' extensive use of Instagram for eCommerce, the ManyChat guide provides an Ultimate Guide for Online Sellers, which could help improve their marketing strategy and sales by providing effective marketing tactics for the platform.",
+    "hours_saved": 4
+  }
+]
+
+{
+    "url": "https://manychat.com/blog/social-media-analytics-tools/",
+    "source": "manychat",
+    "why": "TechTrendz e-commerce business can benefit from ManyChat's guide to improving social media marketing with reduced costs and increased efficiency by adopting new social media analytics tools. This will enable them to gain a deeper understanding of customer trends and behaviors with the potential for increased sales through targeted marketing and better decision-making.",
+    "hours_saved": 10
+}
+
